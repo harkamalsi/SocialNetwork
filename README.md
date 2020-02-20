@@ -17,7 +17,6 @@ This will be a prototype for a developer forum web application with the main pur
   * Programming language
   * Other relevant parameters
 * Can save a conversation 
-* Can save a conversation 
 * Can access saved conversations from “my-page”  
 * Can see other users’ profiles 
 
