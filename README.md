@@ -20,6 +20,7 @@ This will be a prototype for a developer forum web application with the main pur
 ## Technology used
 * React + TypeScipt
 * Spring Boot
+* MongoDB
 * REST
 * Jenkins 
 * Heroku
